@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
-<presentation guid="55C9E27A-7E1D-441A-BE87-3B4C9A1D7BF4" version="0" availableOffline="1">
+<presentation guid="8FAD6191-B245-4EF0-9167-B00E82E91F94" version="0" availableOffline="1">
 	<info>
-		<title>1ro Info</title>
+		<title>1ro info</title>
 		<description/>
 	</info>
-	<files index="id9" thumbnail="id33" totalSize="4083540">
+	<files index="id9" thumbnail="id33" totalSize="4083811">
 		<file id="id0">data/quiz1.js</file>
 		<file id="id1">data/quiz1/fonts/fnt0.woff</file>
 		<file id="id2">data/quiz1/fonts/fnt1.woff</file>

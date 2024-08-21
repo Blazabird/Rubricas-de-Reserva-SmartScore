@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
-<presentation guid="C3A7C3C6-CB2C-4C66-A349-070A3FD0FFDD" version="0" availableOffline="1">
+<presentation guid="4A50A157-9B70-4B58-AD4E-EB18C12C2A1D" version="0" availableOffline="1">
 	<info>
 		<title>3ro Emca</title>
 		<description/>
 	</info>
-	<files index="id10" thumbnail="id34" totalSize="4127260">
+	<files index="id10" thumbnail="id34" totalSize="4126582">
 		<file id="id0">data/quiz1.js</file>
 		<file id="id1">data/quiz1/fonts/fnt0.woff</file>
 		<file id="id2">data/quiz1/fonts/fnt1.woff</file>
